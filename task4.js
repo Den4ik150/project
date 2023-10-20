@@ -1,3 +1,5 @@
+"use strict" 
+
 const lines = 5;
 let result = '';
 
