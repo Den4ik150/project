@@ -13,4 +13,18 @@ console.log(fruit.indexOf("fruit"));
 
 const logg = "Hello World!";
 
-console.log(logg.slice(-1, -7))
+// console.log(logg.slice(-7, -1));
+
+// console.log(logg.substring(6, 11));
+
+// console.log(logg.substr(6, 5));
+
+const num = 12.2;
+console.log(Math.round(num));
+
+
+const test = "12.2px";
+// console.log(parseInt(test)); // Переводит в другую систему исчисления
+console.log(parseFloat(test));
+
+
